@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "126555133075",
+    "firebase_url": "https://fcmpocket.firebaseio.com",
+    "project_id": "fcmpocket",
+    "storage_bucket": "fcmpocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126555133075:android:8c6af106e4ed9acd",
+        "android_client_info": {
+          "package_name": "com.example.iscampos.fcmpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126555133075-07h5vk9bqkb9g8s1sb30uqcsum0g0sdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdItwvjBiASmrxehGA7HL2FH3UmLWj1ME"
+        },
+        {
+          "current_key": "AIzaSyD3Dsa8zXhtORB5QJnU1660ah_AHWpBPV8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126555133075-07h5vk9bqkb9g8s1sb30uqcsum0g0sdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
