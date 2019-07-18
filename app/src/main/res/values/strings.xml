@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FCMPoc</string>
+    <string name="lbl_token">Touch to share token</string>
+    <string name="btn_token">Token</string>
+    <string name="txt_share_title">Sharing Push Token</string>
+    <string name="txt_token_error">Some error occurred while retrieving Token</string>
 </resources>
